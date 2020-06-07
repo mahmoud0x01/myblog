@@ -12,6 +12,7 @@
   {### ARCHIVE BLOCK ###}
   {#####################}
   <div class="post-block">
+  {% include '_third-party/ad/adsense.swig' %}
     <div class="posts-collapse">
       <div class="collection-title">
         {%- set posts_length = site.posts.length %}

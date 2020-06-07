@@ -45,6 +45,7 @@
             </div>
           </div>
         {% elif page.type === 'categories' %}
+	  {% include '_third-party/ad/adsense.swig' % }
           <div class="category-all-page">
             <div class="category-all-title">
               {{ _p('counter.categories', site.categories.length) }}
