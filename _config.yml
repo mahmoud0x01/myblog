@@ -11,6 +11,13 @@ author: Mahmoud Adel
 language: en
 timezone: ''
 
+# searching
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.mahmoudadel.com/
