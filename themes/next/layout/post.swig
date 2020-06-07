@@ -8,7 +8,7 @@
 {% block content %}
 
   {{ partial('_macro/post.swig', {post: page}) }}
-
+  {% include '_third-party/ad/adsense.swig' %}
 {% endblock %}
 
 {% block sidebar %}
