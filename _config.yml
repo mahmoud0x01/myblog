@@ -19,7 +19,7 @@ search:
   format: html
 
 # URL
-## If your site is pumydickinurpussyt in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.mahmoudadel.com/
 root: /
 permalink: :year/:month/:day/:title/
@@ -31,7 +31,7 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: hashtag
 archive_dir: posts
 category_dir: categories
 code_dir: downloads/code
