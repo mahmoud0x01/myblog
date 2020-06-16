@@ -1,8 +1,11 @@
 ---
-title: myblog
+title: first post
 date: 2020-06-06 14:37:18
-tags: new start
+tags: start
 ---
 ## hello overthere 
-`it's my new blog soon will post new articles,worka,writeups
-# stay tuned!`
+`it's my new blog soon i will post new 
+* articles
+* activities
+* write-ups	
+# stay tuned!
