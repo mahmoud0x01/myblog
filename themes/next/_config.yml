@@ -177,7 +177,7 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  Twitter: https://twitter.com/unmaskable || fab fa-twitter
+  Twitter: https://twitter.com/0xvdso || fab fa-twitter
   GitHub: https://github.com/mahmoud0x01/ || fab fa-github
   E-Mail: mailto:business@mahmoudadel.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
@@ -186,7 +186,7 @@ social:
   FB Page: https://www.facebook.com/mahmoudadel0x || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
-  Instagram: https://instagram.com/unmaskableinterrupt || fab fa-instagram
+  Instagram: https://instagram.com/0xkernel || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
